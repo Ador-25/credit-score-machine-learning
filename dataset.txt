@@ -1,0 +1,1 @@
+https://github.com/YBI-Foundation/Dataset/raw/main/Loan%20Eligibility%20Prediction.csv
